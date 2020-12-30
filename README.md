@@ -6,6 +6,6 @@ This app shows the live count of number of beds available from different hospita
 
 Steps to install:
  1. Clone repo ```git clone https://github.com/siddarthbhave/covidbedapp.git```
- 2. ```py -m venv venv```
- 3. ```pip install -r requirements.txt```
- 4. ```flask run```
+ 2. Install virtual environment ```py -m venv venv```
+ 3. Install all dependencies ```pip install -r requirements.txt```
+ 4. Run app ```flask run```
